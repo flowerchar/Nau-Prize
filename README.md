@@ -19,6 +19,17 @@
 1. **2024年4月一年期南京审计大学学生审计员**
 1. **2024年5月第十五届蓝桥杯软件测试组江苏省一等奖(国赛ing)**
 
+公众号/官网报道：
+
+1. [2024年3月教务系统公众号报道一次](https://xgc.nau.edu.cn/2024/0318/c3439a126323/page.htm)
+2. [2024年3月学生工作处一次](https://xgc.nau.edu.cn/2024/0314/c3439a126090/page.htm)
+3. [2024年3月学生工作处二次](https://xgc.nau.edu.cn/2024/0318/c3439a126323/page.htm)
+4. [2024年3月联合研究院官网第2期工作例会](https://jri.nau.edu.cn/2024/0325/c10286a126700/page.htm)
+5. [2024年4月计算机学院公众号报道一次]()
+6. [2024年4月审计处官网聘任通知](https://sjc.nau.edu.cn/2024/0410/c3418a127887/page.htm)
+7. [2024年4月审计处官网审计员座谈会](https://sjc.nau.edu.cn/2024/0410/c3423a127883/page.htm)
+8. [2024年5月南京审计大学官方公众号报道一次](https://mp.weixin.qq.com/s/yCAIPZt7EIwk5mvwLXItxg)
+
 
 其他：
 
@@ -47,6 +58,6 @@
 
 6. 江苏省重点研究基地经济监督研究中心：[联合研究院召开经济监督研究中心 2024年第2期工作例会](https://jri.nau.edu.cn/2024/0325/c10286a126700/page.htm) 
 
-7. 蓝桥杯官网：[获奖名单](https://dasai.lanqiao.cn/notices/1615/)
+7. 蓝桥杯官网：[获奖名单](https://dasai.lanqiao.cn/notices/1615/)![image-20240505205231016](README.assets/image-20240505205231016.png)
 
    
