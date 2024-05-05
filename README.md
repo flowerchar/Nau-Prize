@@ -21,7 +21,7 @@
 
 公众号/官网报道：
 
-1. [2024年3月教务系统公众号报道一次](https://xgc.nau.edu.cn/2024/0318/c3439a126323/page.htm)
+1. [2024年3月教务系统公众号报道一次](https://mp.weixin.qq.com/s/hKrirpjQrYH_IcoT9nYnrA?poc_token=HKKCN2ajewIMrXKk-2kkCQrITvWFEGef1rD6m673)
 2. [2024年3月学生工作处一次](https://xgc.nau.edu.cn/2024/0314/c3439a126090/page.htm)
 3. [2024年3月学生工作处二次](https://xgc.nau.edu.cn/2024/0318/c3439a126323/page.htm)
 4. [2024年3月联合研究院官网第2期工作例会](https://jri.nau.edu.cn/2024/0325/c10286a126700/page.htm)
